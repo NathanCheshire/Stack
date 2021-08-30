@@ -1,11 +1,7 @@
 # Project 1 : Stack
 ### Made for data structures course fall 2019
 
-### Instructions I was given for this homework project (full PDF in files)
-For this assignment you must write a program that implements a stack of integers. The stack should be
-implemented using classes and must support the push, pop, and peek stack operations, the isEmpty
-method, and overload operator<<. Your stack implementation should also handle popping or peeking at
-data from an empty stack without generating a runtime error.
+### Instructions I was given for this homework project
 
 Your program should test the correctness of your implementation in function main. You should provide
 test case to verify your stack works for the following cases:
